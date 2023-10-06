@@ -1,0 +1,2 @@
+# EC_IT143_W8.1_hello_world_s2_FD.sq
+https://ldsbc-my.sharepoint.com/:v:/g/personal/frd684_ensign_edu/EaG-AJYMRuhJtsSqd_s7g9oBhqVLSjsGwD1-yA6sk04usA?e=HJ3Soj&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
